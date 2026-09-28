@@ -1,0 +1,86 @@
+# Logica de mapeo replicada del archivo manual (Cash_Flow_report_2608.xlsx).
+#
+# El diccionario de merchants vive en config/dictionary.csv y se busca por
+# coincidencia exacta:
+#   - Mercury  : contra la columna "Description" del export
+#   - DolarApp : contra la columna "name" del export
+# Devuelve Statement / Type 2 / Type 3. Type 2_B sale de type_2_b_map.
+
+# transaction_state / Status -> estado normalizado.
+# Solo los movimientos "Sent" entran al cash flow.
+status_map:
+  COMPLETED: Sent
+  Sent: Sent
+  FAILED: Failed
+  Failed: Failed
+  REVERTED: Failed
+
+# Type 2 -> Type 2_B (agregacion de segundo nivel del reporte)
+type_2_b_map:
+  "0. Investments": "0. Investments"
+  "1. Collections": "1. Collections"
+  "2. Candidates Sourcing": "2. Candidates Sourcing"
+  "3. Platform": "3. Platform"
+  "4. People": "4. People"
+  "5. Marketing": "5. Marketing"
+  "6. Tech salaries": "6. Other fixed and admin"
+  "7. Founders": "6. Other fixed and admin"
+  "8. Other fixed costs": "6. Other fixed and admin"
+  "9.Sales comissions": "9.Sales comissions"
+
+# Orden de las lineas del reporte
+type_2_order:
+  - "1. Collections"
+  - "2. Candidates Sourcing"
+  - "3. Platform"
+  - "4. People"
+  - "5. Marketing"
+  - "6. Tech salaries"
+  - "7. Founders"
+  - "8. Other fixed costs"
+  - "9.Sales comissions"
+  - "0. Investments"
+
+# Statements que NO son P&L y quedan fuera del cash flow operativo,
+# pero si afectan el saldo de caja (se muestran aparte y se usan al conciliar).
+non_pl_statements: ["BS", "Intercompany"]
+
+# ---------------------------------------------------------------------------
+# Ajustes manuales (hoja "Ajustes Manuales cada mes" del archivo original).
+# Se aplican DESPUES del diccionario y pisan su resultado.
+# ---------------------------------------------------------------------------
+adjustments:
+  # 1) Facebook pagado con la tarjeta terminada en 2354 -> Platform / Messaging
+  - id: fb_card_2354
+    when:
+      description_contains: "facebook"
+      card_last_four: "2354"
+    set:
+      statement: "P&L"
+      type_2: "3. Platform"
+      type_2_b: "3. Platform"
+      type_3: "3. Messaging"
+
+  # 3) Plata que ENTRA de parte de Ivan (por Wise o transferencia directa) no es
+  #    ingreso: es aporte de socio. La misma contraparte cuando SALE es sueldo,
+  #    asi que la regla depende del signo.
+  - id: aporte_socio
+    when:
+      description_matches: "ivan amelong|wise us inc"
+      sign: "+"
+    set:
+      statement: "BS"
+      type_2: "0. Investments"
+      type_2_b: "0. Investments"
+      type_3: "2. Founders"
+
+  # 2) Suscripcion Anthropic de 200 USD/mes -> Tech salaries
+  - id: anthropic_200
+    when:
+      description_contains: "anthropic"
+      abs_amount: 200.00
+    set:
+      statement: "P&L"
+      type_2: "6. Tech salaries"
+      type_2_b: "6. Other fixed and admin"
+      type_3: "1. Salaries"

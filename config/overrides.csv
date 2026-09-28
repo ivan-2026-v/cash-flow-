@@ -1,0 +1,9 @@
+account,date_real,description,amount,period_alloc,statement,type_2,type_3,motivo
+mercury_8107,2026-02-18,Efren Narvaez (Citibank) (Efren Rogelio Narvaez Pena),-2500.00,2026-01,,,,Sueldo fundador de enero pagado en febrero
+mercury_8107,2026-02-18,Fede (BoA) (Federico David Naides),-6250.00,2026-01,,,,Sueldo fundador de enero pagado en febrero
+mercury_8107,2026-02-18,Ivan Amelong - Wise (Ivan Amelong),-6750.00,2026-01,,,,Sueldo fundador de enero pagado en febrero
+mercury_8107,2026-02-02,WeWork,-442.63,2026-01,,,,Renta de enero pagada en febrero
+mercury_8107,2026-02-02,Aldana Casas (Aldana Casas),-348.00,2026-01,,,,Marketing de enero pagado en febrero
+mercury_8107,2026-01-08,WeWork,-433.46,2025-12,,,,Renta de diciembre pagada en enero
+mercury_8107,2026-01-06,Ivan Amelong - Wise (Ivan Amelong),-6750.00,2025-12,,,,Sueldo fundador de diciembre pagado en enero
+mercury_8107,2026-01-05,Bridge Arx,6750.00,2025-12,P&L,7. Founders,1. Salaries,Fondeo para pagar el sueldo de diciembre de Ivan; se aparea con la salida y neutraliza en diciembre

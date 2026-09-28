@@ -1,0 +1,94 @@
+fecha,mes_caja,mes_devengo,cuenta,descripcion,descripcion_banco,tarjeta,importe_usd,estado,statement,type_2,type_2_b,type_3,ajuste,reasignacion,en_diccionario
+2026-01-01,2026-01,2026-01,mercury_8107,Facebook,FACEBK *34KPBB5GV2,9779,-56.97,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-01,2026-01,2026-01,mercury_8107,Optimus Digital,OPTIMUS DIGITAL,8319,-710.29,Failed,P&L,5. Marketing,5. Marketing,2. Agency,,,si
+2026-01-01,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-21.31,Failed,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-02,2026-01,2026-01,mercury_8107,Indeed,Indeed IEI26-00132513,4240,-130.70,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,2. Job Portals,,,si
+2026-01-02,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-3.92,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-02,2026-01,2026-01,mercury_8107,Optimus Digital,OPTIMUS DIGITAL,8319,-710.29,Failed,P&L,5. Marketing,5. Marketing,2. Agency,,,si
+2026-01-02,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-21.31,Failed,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-02,2026-01,2026-01,mercury_8107,Google Cloud,PAYU   *GOOGLE CLOUD,9779,-174.75,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-02,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-5.24,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-02,2026-01,2026-01,mercury_8107,Unstract,UNSTRACT,9779,-36.98,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-02,2026-01,2026-01,mercury_8107,Facebook,FACEBK *977DNBHMH2,4240,-316.77,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-02,2026-01,2026-01,mercury_8107,Facebook,FACEBK *CX8HBAHJW2,4240,-10.81,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-03,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-21.40,Failed,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-03,2026-01,2026-01,mercury_8107,Optimus Digital,OPTIMUS DIGITAL,8319,-713.45,Failed,P&L,5. Marketing,5. Marketing,2. Agency,,,si
+2026-01-03,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.18,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-03,2026-01,2026-01,mercury_8107,Servicios Digitales,SERVICIOS DIGITALES,9779,-5.85,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-03,2026-01,2026-01,mercury_8107,Facebook,FACEBK *NVMQS99GV2,9779,-54.05,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-03,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.18,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-03,2026-01,2026-01,mercury_8107,TikTok,TikTok Ads,9779,-5.85,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social Media,,,si
+2026-01-04,2026-01,2026-01,mercury_8107,TikTok,TIKTOK,9779,-9.11,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social Media,,,si
+2026-01-04,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.27,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-04,2026-01,2026-01,mercury_8107,Optimus Digital,OPTIMUS DIGITAL,8319,-714.88,Sent,P&L,5. Marketing,5. Marketing,2. Agency,,,si
+2026-01-04,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-21.45,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-04,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.27,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-04,2026-01,2026-01,mercury_8107,TikTok,TikTok Ads,9779,-9.11,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social Media,,,si
+2026-01-05,2026-01,2025-12,mercury_8107,Bridge Arx,"Bridge Arx; DolarApp; NEXIU AI, LLC",,6750.00,Sent,P&L,7. Founders,6. Other fixed and admin,1. Salaries,,Fondeo para pagar el sueldo de diciembre de Ivan; se aparea con la salida y neutraliza en diciembre,si
+2026-01-05,2026-01,2026-01,mercury_8107,TikTok,TikTok Ads,9779,-13.66,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social Media,,,si
+2026-01-05,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.41,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-05,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.41,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-05,2026-01,2026-01,mercury_8107,TikTok,TikTok Ads,9779,-13.66,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social Media,,,si
+2026-01-05,2026-01,2026-01,mercury_8107,Facebook,FACEBK *PK85X99GV2,9779,-112.96,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-06,2026-01,2025-12,mercury_8107,Ivan Amelong - Wise (Ivan Amelong),Send Money transaction initiated on Mercury,,-6750.00,Sent,P&L,7. Founders,6. Other fixed and admin,1. Salaries,,Sueldo fundador de diciembre pagado en enero,si
+2026-01-06,2026-01,2026-01,mercury_8107,Servicios Digitales,SERVICIOS DIGITALES,9779,-16.61,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-06,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.50,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-06,2026-01,2026-01,mercury_8107,Facebook,FACEBK *SR7RRBDGV2,9779,-42.50,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-06,2026-01,2026-01,mercury_8107,Anthropic,CLAUDE.AI SUBSCRIPTION,9779,-20.00,Sent,P&L,3. Platform,3. Platform,1. Variable,,,si
+2026-01-07,2026-01,2026-01,mercury_8107,TikTok,TikTok Ads,9779,-20.81,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social Media,,,si
+2026-01-07,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.62,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-07,2026-01,2026-01,mercury_8107,Heyreach,HEYREACH,9779,-63.20,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,4. Others,,,si
+2026-01-07,2026-01,2026-01,mercury_8107,Facebook,FACEBK *BSTNXAVFV2,9779,-140.86,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-08,2026-01,2025-12,mercury_8107,WeWork,YSI* WEWORK MX,9779,-433.46,Sent,P&L,8. Other fixed costs,6. Other fixed and admin,3. Rent,,Renta de diciembre pagada en enero,si
+2026-01-08,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-13.00,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-09,2026-01,2026-01,mercury_8107,CLICOH EXPRESS MX SA DE CV,,,566.00,Sent,P&L,1. Collections,1. Collections,1. Full Stack,,,si
+2026-01-09,2026-01,2026-01,mercury_8107,Facebook,FACEBK *Y2T8YAHGV2,9779,-267.49,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-09,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.62,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-09,2026-01,2026-01,mercury_8107,TikTok,TikTok Ads,9779,-20.73,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social Media,,,si
+2026-01-10,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.62,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-10,2026-01,2026-01,mercury_8107,TikTok,TikTok Ads,9779,-20.72,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social Media,,,si
+2026-01-11,2026-01,2026-01,mercury_8107,Facebook,FACEBK *NUK7FA9GV2,9779,-342.17,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-12,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.62,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-12,2026-01,2026-01,mercury_8107,TikTok,TikTok Ads,9779,-20.72,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social Media,,,si
+2026-01-13,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.61,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-13,2026-01,2026-01,mercury_8107,TikTok,TikTok Ads,9779,-20.23,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social Media,,,si
+2026-01-13,2026-01,2026-01,mercury_8107,Facebook,FACEBK *WC7TJA9GV2,9779,-191.39,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-15,2026-01,2026-01,mercury_8107,Servicios Digitales,SERVICIOS DIGITALES,9779,-20.89,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-15,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-0.63,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-15,2026-01,2026-01,mercury_8107,Facebook,FACEBK *AFZ3FBHGV2,9779,-342.31,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-15,2026-01,2026-01,dolarapp_mx,UVI TECH SAPI DE CV,VENDBILL1046050,XXXX,2192.78,Sent,P&L,1. Collections,1. Collections,1. Full Stack,,,si
+2026-01-15,2026-01,2026-01,dolarapp_mx,Ricardo Lopez,Honorarios contablesAgo25-Ene26,XXXX,-530.36,Failed,P&L,8. Other fixed costs,6. Other fixed and admin,2. Admin,,,si
+2026-01-15,2026-01,2026-01,dolarapp_mx,Tiktok Ads Singapore,TikTok Ads,2535,-11.34,Failed,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-15,2026-01,2026-01,dolarapp_mx,Tiktok Ciudad De Mex,TIKTOK,2535,-1.13,Failed,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-16,2026-01,2026-01,mercury_8107,Facebook,FACEBK *3H9NFCZHW2,4240,-25.00,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-16,2026-01,2026-01,dolarapp_mx,Ricardo Lopez,Honorarios contablesAgo25-Ene26,XXXX,-530.26,Failed,P&L,8. Other fixed costs,6. Other fixed and admin,2. Admin,,,si
+2026-01-17,2026-01,2026-01,mercury_8107,Lovable,LOVABLE,9779,-25.00,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-17,2026-01,2026-01,mercury_8107,Facebook,FACEBK *L6BELBHGV2,9779,-313.19,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-18,2026-01,2026-01,mercury_8107,Cookiebot,COOKIEBOT,9779,-8.00,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-18,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-2.69,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-18,2026-01,2026-01,mercury_8107,LinkedIn,LinkedIn SN P105646706,9779,-89.70,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,3. Linkedin,,,si
+2026-01-19,2026-01,2026-01,mercury_8107,Facebook,FACEBK *DPZV5CZFV2,9779,-465.09,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-19,2026-01,2026-01,dolarapp_mx,Ricardo Lopez,Honorarios contablesAgo25-Ene26,XXXX,-532.81,Failed,P&L,8. Other fixed costs,6. Other fixed and admin,2. Admin,,,si
+2026-01-19,2026-01,2026-01,dolarapp_mx,Ricardo Lopez,Honorarios contablesAgo25-Ene26,XXXX,-533.01,Sent,P&L,8. Other fixed costs,6. Other fixed and admin,2. Admin,,,si
+2026-01-21,2026-01,2026-01,mercury_8107,Facebook,FACEBK *QBFNYCDGV2,9779,-224.06,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-22,2026-01,2026-01,mercury_8107,Recall,RECALL.AI,9779,-10.00,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-23,2026-01,2026-01,mercury_8107,OpenAI,OPENAI,9779,-250.00,Sent,P&L,3. Platform,3. Platform,1. Variable,,,si
+2026-01-24,2026-01,2026-01,mercury_8107,Whaticket,WHATICKET,9779,-49.00,Sent,P&L,3. Platform,3. Platform,1. Variable,,,si
+2026-01-24,2026-01,2026-01,mercury_8107,Facebook,FACEBK *YHU5PBRGV2,9779,-549.00,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-25,2026-01,2026-01,mercury_8107,Vercel,VERCEL INC.,9779,-40.00,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-25,2026-01,2026-01,mercury_8107,Facebook,FACEBK *9748FCVFV2,9779,-145.86,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-27,2026-01,2026-01,mercury_8107,WISE US INC,WISE US INC; Loan Ivan; Nexiu AI LLC,,2000.00,Sent,BS,0. Investments,0. Investments,2. Founders,aporte_socio,,si
+2026-01-28,2026-01,2026-01,mercury_8107,Facebook,FACEBK *MV4B,4240,-11.99,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-28,2026-01,2026-01,mercury_8107,Facebook,FACEBK *EGXZZBRGV2,9779,-432.09,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-29,2026-01,2026-01,mercury_8107,IVAN AMELONG,,,1500.00,Sent,BS,0. Investments,0. Investments,2. Founders,aporte_socio,,si
+2026-01-29,2026-01,2026-01,mercury_8107,Monica Tonanzin García Vega (Monica Tonanzin García Vega),Send Money transaction initiated on Mercury,,-870.00,Sent,P&L,4. People,4. People,1. Operations,,,si
+2026-01-29,2026-01,2026-01,mercury_8107,Alex Tigselema (Alex Ignacio Tigselema Pacheco),Send Money transaction initiated on Mercury,,-800.00,Sent,P&L,6. Tech salaries,6. Other fixed and admin,1. Salaries,,,si
+2026-01-29,2026-01,2026-01,mercury_8107,Intl. Wire Fee,OUR fee for international wire,,-15.00,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-29,2026-01,2026-01,mercury_8107,Facebook,FACEBK *N6AJSCVFV2,9779,-250.24,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-30,2026-01,2026-01,mercury_8107,Merpago*occ,MERPAGO*OCC,9779,-149.05,Failed,,,,,,,NO
+2026-01-30,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-4.47,Failed,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-30,2026-01,2026-01,mercury_8107,Facebook,FACEBK *HGFX9DRMH2,4240,-400.00,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-31,2026-01,2026-01,mercury_8107,Facebook,FACEBK *K57RKDVGV2,9779,-579.00,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,1. Social media,,,si
+2026-01-31,2026-01,2026-01,mercury_8107,Anthropic,ANTHROPIC,9779,-5.00,Sent,P&L,3. Platform,3. Platform,1. Variable,,,si
+2026-01-31,2026-01,2026-01,mercury_8107,Intl. Transaction Fee,,,-4.48,Sent,P&L,3. Platform,3. Platform,2. Fixed,,,si
+2026-01-31,2026-01,2026-01,mercury_8107,WWW.OCC.COM.MX,WWW.OCC.COM.MX,9779,-149.35,Sent,P&L,2. Candidates Sourcing,2. Candidates Sourcing,2. Job Portals,,,si
