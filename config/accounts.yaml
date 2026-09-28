@@ -1,0 +1,27 @@
+# Cuentas y saldos declarados por los extractos bancarios (fuente de la verdad).
+accounts:
+  - id: mercury_8107
+    name: "Mercury Checking xx8107 (USA)"
+    currency: USD
+    parser: mercury_xlsx
+    files:
+      "2026-01": data/raw-data/mercury-8107-2026-01.xlsx
+
+  - id: dolarapp_mx
+    name: "DolarApp Main account USDc (MX)"
+    currency: USD   # USDc ~ USD
+    parser: dolarapp_csv
+    files:
+      "2026-01": data/raw-data/dolarapp-mx-2026-01.csv
+
+# Saldos tomados de los PDF en data/bank-statements (se usan para conciliar)
+statement_balances:
+  "2026-01":
+    mercury_8107:
+      opening: 6817.52
+      closing: 1470.03
+      source: "data/bank-statements/mercury-8107-2026-01.pdf"
+    dolarapp_mx:
+      opening: 0.00
+      closing: 1659.7711
+      source: "data/bank-statements/dolarapp-mx-2026-01.pdf"
